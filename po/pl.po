@@ -158,44 +158,44 @@ msgstr "Lista dostępnych sieci"
 
 #, fuzzy, python-format
 msgid " (Channel %s)"
-msgstr "Kanał"
+msgstr " (Kanał %s)"
 
 msgid " (auto detection)"
-msgstr ""
+msgstr "(automatyczne wykrywanie)"
 
 #, fuzzy
 msgid " (disabled)"
-msgstr "wyłączony"
+msgstr "(wyłączony)"
 
 msgid " (higher than any auto)"
-msgstr ""
+msgstr " (wyższe niż jakikolwiek auto.)"
 
 msgid " (higher than rotor any auto)"
-msgstr ""
+msgstr " (wyższe niż obrotnica w dowolnym auto.)"
 
 msgid " (lower than any auto)"
-msgstr ""
+msgstr " (niższe niż jakikolwiek auto)"
 
 msgid " - Unicable/JESS LNBs not found"
-msgstr ""
+msgstr "  nie znaleziono konwertery Unicable/JESS"
 
 msgid " - video0"
-msgstr ""
+msgstr "  wideo0"
 
 msgid " - video0+video1"
-msgstr ""
+msgstr "  wideo0+wideo1"
 
 msgid " - video1"
-msgstr ""
+msgstr "  wideo1"
 
 msgid " Warning: the selected tuner should not use SCR Unicable type for LNBs because each tuner need a own SCR number."
-msgstr ""
+msgstr "Ostrzeżenie: wybrana głowica nie powinienna używaćć typu SCR Unicable dla LNB, ponieważ każda głowica potrzebuje własnego numeru SCR."
 
 msgid " and"
-msgstr ""
+msgstr " i"
 
 msgid " unicable LNB input of rotor"
-msgstr ""
+msgstr "unicable wejście obrotnicy LNB"
 
 #, fuzzy
 msgid "%-H:%M"
@@ -310,15 +310,15 @@ msgstr ""
 
 #, python-format
 msgid "%.0f GB"
-msgstr ""
+msgstr "%.z GB"
 
 #, python-format
 msgid "%.0f MB"
-msgstr ""
+msgstr "%.z MB"
 
 #, python-format
 msgid "%.0f kB"
-msgstr ""
+msgstr "%.z kB"
 
 #, python-format
 msgid "%.2f GB"
@@ -877,51 +877,51 @@ msgstr[2] ""
 #, fuzzy, python-format
 msgid "%d Recording"
 msgid_plural "%d Recordings"
-msgstr[0] "Nagranie"
+msgstr[0] "Nagrań"
 msgstr[1] "Nagranie"
-msgstr[2] "Nagranie"
+msgstr[2] "Nagrania"
 
 #. TRANSLATORS: Intermediate scanning result, '%d' channel(s) have been found so far
 #, python-format
 msgid "%d channel found"
 msgid_plural "%d channels found"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%d znalezionych kanałów"
+msgstr[1] "%d znaleziony kanał"
+msgstr[2] "%d znalezione kanały"
 
 #, python-format
 msgid "%d cores"
-msgstr ""
+msgstr "%d kolorów"
 
 #, python-format
 msgid "%d days"
-msgstr ""
+msgstr "%d dni"
 
 #, python-format
 msgid "%d hour"
 msgid_plural "%d hours"
-msgstr[0] "%d godzina"
-msgstr[1] "%d godziny"
-msgstr[2] "%d godzin"
+msgstr[0] "%d godzin"
+msgstr[1] "%d godzina"
+msgstr[2] "%d godziny"
 
 #, fuzzy, python-format
 msgid "%d hours"
-msgstr "%d godzina"
+msgstr "%d godziny"
 
 #, fuzzy, python-format
 msgid "%d items"
-msgstr "Usunięte pliki"
+msgstr "%d przedmiotów"
 
 #, fuzzy, python-format
 msgid "%d job is running in the background!"
 msgid_plural "%d jobs are running in the background!"
-msgstr[0] "%d zadanie jest wykonywane w tle!"
+msgstr[0] "%d zadań jest wykonywanych w tle!"
 msgstr[1] "%d zadanie jest wykonywane w tle!"
-msgstr[2] "%d zadanie jest wykonywane w tle!"
+msgstr[2] "%d zadania są wykonywane w tle!"
 
 #, python-format
 msgid "%d jobs are running in the background!"
-msgstr "%d zadanie jest wykonywane w tle!"
+msgstr "%d zadania działają w tle!"
 
 #, python-format
 msgid "%d kB"
@@ -929,11 +929,11 @@ msgstr ""
 
 #, fuzzy, python-format
 msgid "%d marked item"
-msgstr "%d minuta"
+msgstr "%d zaznaczony przedmiot"
 
 #, fuzzy, python-format
 msgid "%d marked items"
-msgstr "%d minut"
+msgstr "%d zaznaczone przedmioty"
 
 #, python-format
 msgid "%d min"
@@ -942,13 +942,13 @@ msgstr "%d min"
 #, python-format
 msgid "%d minute"
 msgid_plural "%d minutes"
-msgstr[0] "%d minuta"
-msgstr[1] "%d minuty"
-msgstr[2] "%d minut"
+msgstr[0] "%d minut"
+msgstr[1] "%d minuta"
+msgstr[2] "%d minuty"
 
 #, python-format
 msgid "%d minutes"
-msgstr "%d minut"
+msgstr "%d minuty"
 
 #, fuzzy, python-format
 msgid "%d ms"
@@ -956,7 +956,7 @@ msgstr "%d min"
 
 #, python-format
 msgid "%d of %d Bytes"
-msgstr ""
+msgstr "%d of %d Bajtów"
 
 #, python-format
 msgid "%d of %d KB"
@@ -965,31 +965,31 @@ msgstr ""
 #, python-format
 msgid "%d pixel wide"
 msgid_plural "%d pixels wide"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Szerokości %d pikseli"
+msgstr[1] "Szerokość %d pikseli"
+msgstr[2] "Szerokości %d pikseli"
 
 #, fuzzy, python-format
 msgid "%d sec"
-msgstr "%d sekunda"
+msgstr "%d sek"
 
 #, python-format
 msgid "%d second"
 msgid_plural "%d seconds"
-msgstr[0] "%d sekunda"
-msgstr[1] "%d sekundy"
-msgstr[2] "%d sekund"
+msgstr[0] "%d sekund"
+msgstr[1] "%d sekunda"
+msgstr[2] "%d sekundy"
 
 #, fuzzy, python-format
 msgid "%d seconds"
-msgstr "%d sekunda"
+msgstr "%d sekundy"
 
 #, fuzzy, python-format
 msgid "%d wireless network found!"
 msgid_plural "%d wireless networks found!"
-msgstr[0] "Nie znaleziono sieci bezprzewodowych! Wyszukiwanie ..."
-msgstr[1] "Nie znaleziono sieci bezprzewodowych! Wyszukiwanie ..."
-msgstr[2] "Nie znaleziono sieci bezprzewodowych! Wyszukiwanie ..."
+msgstr[0] "Znaleziono %d sieci bezprzewodowych!"
+msgstr[1] "Znaleziono %d sieć bezprzewodową!"
+msgstr[2] "Znaleziono %d sieci bezprzewodowe!"
 
 msgid "%d+%b_"
 msgstr ""
